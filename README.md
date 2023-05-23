@@ -1,5 +1,4 @@
-# Rule-base
-룰베이스
+# 컨벤션
 - [Feat] : 새로운 기능 추가
 - [Add]: 새로운 파일 추가 (json, img, asset, 목업데이터 등등)
 - [Fix] : 버그 수정
